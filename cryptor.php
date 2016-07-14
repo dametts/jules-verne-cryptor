@@ -1,6 +1,4 @@
 <?php
-header('Content-Type: text/html; charset=utf-8');
-
         $string_to_crypt  = "password";
         $crypt_code       = "4581";
         $abc_table        = "{aábcdeéfghijklmnoöpqrstuüvxyz} (29) ";
