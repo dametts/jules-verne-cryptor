@@ -16,6 +16,7 @@ Tehát:
 Jarriquez	bíró	nagyon	 okos
 423423423	4234	234234	 2342
 Most írjuk még le az ábécét, és lássuk el sorszámmal az egyes betűket, így:
+
 a 1 f 8 m 15 s 22
 
 á 2 g 9 n 16 t 23
