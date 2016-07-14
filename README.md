@@ -6,6 +6,8 @@ Válasszunk egy mondatot pl: Jarriquez bíró nagyon okos
 Most válasszunk egy számot, mondjuk, egy háromjegyű számot. Legyen ez a szám 423. Most az előbb választott mondat betűit külön-külön leírjuk, aztán aláírjuk a sifreként választott számot.
 Tehát:
 Válasszunk egy mondatot pl: Jarriquez bíró nagyon okos
+
+
 Most válasszunk egy számot, mondjuk, egy háromjegyű számot. Legyen ez a szám 423. Most az előbb választott mondat betűit külön-külön leírjuk, aztán aláírjuk a sifreként választott számot.
 Tehát:
 Jarriquez	bíró	nagyon	 okos
